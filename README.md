@@ -31,28 +31,6 @@ This project is a custom implementation of the Linux `cat` and `grep` commands w
 
 ---
 
-## 🚀 **Getting Started**
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/custom-cat-grep.git
-    cd custom-cat-grep
-    ```
-
-2. Compile the project:
-    ```bash
-    gcc -o custom_cat custom_cat.c
-    gcc -o custom_grep custom_grep.c
-    ```
-
-3. Run the commands:
-    ```bash
-    ./custom_cat [options] [file...]
-    ./custom_grep [options] [pattern] [file...]
-    ```
-
----
-
 ## 🔧 **Planned Enhancements**
 
 - Add support for more complex regular expressions in `grep`.
